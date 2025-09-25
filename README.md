@@ -28,7 +28,11 @@ The goal is to classify the flower into one of three species:
    - Confusion matrix & classification report
 5. Model saving (joblib)
 
+##🔗 Connect With Me
+💼LinkedIn: https://www.linkedin.com/in/fran7safe
+
 ## 🛠 Requirements
 Install dependencies using:
 ```bash
 pip install -r requirements.txt
+
